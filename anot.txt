@@ -1,0 +1,1 @@
+display block = dar identidade para imgs
